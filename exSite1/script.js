@@ -6,4 +6,6 @@ function calcularHora () {
     var minutos = data.getMinutes();
     console.log(typeof(minutos), minutos);
     titulo.innerHTML = `Agora são ${hora}:${minutos} horas.`;
+    //dasdasdadasd
+    //dasdasdsa
 }
